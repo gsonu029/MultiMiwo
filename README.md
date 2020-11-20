@@ -5,7 +5,7 @@ In this App has 4 different activities which contains Miwok words and its corres
 # Overview of the App
 Miwok App has one main Activity(default) and 4 different activity such as `Family Members`, `Colors`, `Phrases`and`Numbers`. In each activity It has Miwok language's words and corresponding English translation along with music file for listening to respective pronunciations and It has also related images for better visuals.
 
-**Here is the video link of the App** [Demo Link](https://drive.google.com/file/d/1RLw9lYyI3rshHsiK5L6YL-LEFVrUTlya/view?usp=sharing)
+**Here is the video link of the App** [Demo Link](https://drive.google.com/file/d/15YRMmACzpumw7-a9BK4_xBqcEOYOVniC/view?usp=sharing)
 # Learning from this Project
 In this project I put different ideas and skills at one place while learning and practicing different skills of Android. Below are some important skills which I learned through this project.
 - How to work with Multiple activites and Different Intents
